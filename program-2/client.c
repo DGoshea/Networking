@@ -1,9 +1,4 @@
 /*
- * Name: Divine Goshea 
- * Course-section: CS440-01
- * Assignment: #5 
- * Due Date: 3/12 11:59pm
- * Collaborator: none
  * Resources: man pages, stack overflow
  * Websites: stackoverflow.com
  * Description: This client simply creates a socket, connects, and sends and 
