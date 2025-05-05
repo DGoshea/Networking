@@ -1,0 +1,6 @@
+70
+    Test plan in design should be specific - list actual inputs and actual expected outputs
+    server - style issues
+    client - style issues
+    do NOT use continue - redesign your logic (unconditional branching)
+    do NOT mod return value of arc4random(3), see the man page
