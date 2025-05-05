@@ -1,9 +1,5 @@
 // THIS IS JUST A START
 /*
- * Name: Divine Goshea 
- * Course-section: CS440-01
- * Assignment: #1 
- * Due Date: 2/14/25 11:59pm
  * Collaborators: ChatGPT, Claude 3.5 Sonnet 
  * Resources: man pages for random number, gets, snprintf, printf, style, nc
  * Websites: geeks for geeks, beej.us, csrc.nist, aourceware
