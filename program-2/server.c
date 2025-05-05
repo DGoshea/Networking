@@ -1,9 +1,4 @@
-/*  Divine Goshea
- * Course-section: CS440-01
- * Assignment: #5
- * Due Date: 3/12
- * Collaborators: ChatGPT for comments and function protype and 
-   implementation separation
+/*  
  * Resources: man pages, w3 schools, stack overflow, geeksforgeeks
  * Description: This server acts as a daemon and echoes back in
    all uppercase or lowercase. This server is configured from a conf file.
