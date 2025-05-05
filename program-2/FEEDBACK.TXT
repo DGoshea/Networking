@@ -1,0 +1,9 @@
+divine - 40
+    do not create conf_parser.c, link the provided object file (sneaker microwaved here)
+    Makefile is broken and a little weird, ask if you have questions
+    do not use global vars (except volatile sig_atomic_t vars)
+    function return type goes on a separate line
+    do not reload config from sig_handler, only change sig_atomic_t vars
+    do not exit from sig_handler, only change sig_atomic_t vars
+    must pass timeout to select(2) or it blocks (yours blocks)
+    don't use atoi(3) (see caveats in man page)
