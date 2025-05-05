@@ -1,10 +1,5 @@
 // THIS IS JUST A START
 /*
- * Name: Divine Goshea 
- * Course-section: CS440-01
- * Assignment: #1 
- * Due Date: 2/12/25 11:59pm
- * Collaborators: ChatGPT, Claude 3.5 Sonnet 
  * Resources: man pages for random number, gets, snprintf, printf, style, nc
  * Websites: geeks for geeks, beej.us, csrc.nist, aourceware
  * Description: A simple server that will accept a yes or no question  from client and generate a random response to send back to client. 
